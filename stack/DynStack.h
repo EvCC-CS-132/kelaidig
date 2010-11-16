@@ -1,4 +1,5 @@
 // Specification file for the DynIntStack class
+// KEL
 #ifndef DYNSTACK_H
 #define DYNSTACK_H
 
